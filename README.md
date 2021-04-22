@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Goodwill</h1>
 <h3 align="center">An Information Engineer, High Performance Computing enthusiast, Full Stack Quantum Computing Developer, Network Engineer, Software Engineer, Tech enthusiast</h3>
 
-- 🌱 I’m currently learning **Qiskit, Quantum Neutral Networks, Hyperparameter Tuning, Regularization and Optimization, Machine Learning, Convolutional Neural Networks, Sequence Models Self-Driving Cars,Real-Time Embedded Systems,FPGA Design for Embedded Systems,Perform Real-Time Object Detection with YOLOv3,Interactive Geospatial Visualization**
+- 🌱 I’m currently learning **Qiskit, Quantum Neutral Networks,  Hyperparameter Tuning,  Regularization and Optimization,  Machine Learning,  Convolutional Neural Networks,   Sequence Models Self-Driving Cars, Real-Time Embedded Systems, FPGA Design for Embedded Systems, Perform Real-Time Object Detection with YOLOv3, Interactive Geospatial Visualization**
 
 - 💬 Ask me about **C++, Python, Qiskit, FPGA, BMS, IoT, HTML, CSS, HPC,R**
 
